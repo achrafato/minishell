@@ -24,7 +24,7 @@ To get started with Minishell, follow these steps:
 
 ## Usage
 
-Once you have launched Minishell, you can start entering commands just like you would in a regular shell. Here are some examples of usage:
+Once you have launched Minishell, you can start entering commands just like you would in a regular shell. Here are some examples of usage :
 
 ```bash
 $ ls -l
